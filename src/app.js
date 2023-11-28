@@ -17,7 +17,7 @@ const openai = new OpenAI({
 });
 
 app.use(bodyParser.json());
-app.use(express.static('public'));
+app.use(express.static(__dirname + '/public'));
 
 io.on('connection', (socket) => {
   console.log('User connected ');

@@ -2,8 +2,9 @@
   "name": "youtube_tool",
   "version": "1.0.0",
   "description": "youtube transcriber",
-  "main": "youtube_test.js",
+  "main": "src/app.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

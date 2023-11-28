@@ -44,6 +44,24 @@ OPENAI_API_KEY=your_openai_api_key
 
 Replace `your_openai_api_key` with your actual OpenAI API key.
 
+## Structure
+
+```
+youtube_tool/
+|-- src/
+|   |-- app.js
+|   |-- public/
+|   |   |-- index.html
+|   |   |-- script.js
+|   |   |-- styles.css
+|   |-- scripts/
+|       |-- youtube_test.js
+|-- package.json
+|-- .gitignore
+|-- README.md
+|-- LICENSE
+```
+
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you would like to change or add. You can always fork the repo and raise a PR on a separate branch.
