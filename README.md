@@ -79,3 +79,14 @@ lamaranelson
 - OpenAI for the LLM.
 - YouTube for the video content.
 - Langchain for the YouTube transcript wrapper.
+
+
+<img width="1232" alt="Screenshot 2023-11-28 at 2 58 56 PM" src="https://github.com/lamaranelson/youtube-tool/assets/65568691/a5a3a33d-8265-4aa8-9a7f-88c0ab25d8ca">
+
+<img width="1680" alt="Screenshot 2023-11-28 at 3 22 28 PM" src="https://github.com/lamaranelson/youtube-tool/assets/65568691/2904fca8-9d5d-45f8-9f72-6837c3fb00e8">
+
+<img width="1680" alt="Screenshot 2023-11-28 at 3 22 41 PM" src="https://github.com/lamaranelson/youtube-tool/assets/65568691/4eed6505-df1f-48ae-ae62-2924f36bfc50">
+
+
+
+
