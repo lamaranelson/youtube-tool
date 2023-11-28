@@ -2,7 +2,7 @@
 
 ## Description
 
-This tool is designed to fetch and improve the transcript of a YouTube video using OpenAI's GPT-4. It provides a web interface where users can enter a YouTube link, retrieve the raw transcript, and after being processed by OpenAI it displays an enhanced version of the transcript as processed by `gpt-4-preview-1106`.
+This tool is designed to fetch and improve the transcript of a YouTube video using OpenAI's GPT-4. It provides a web interface where users can enter a YouTube link, retrieve the raw transcript, and after being processed by OpenAI it displays an enhanced version of the transcript as processed by `gpt-4-1106-preview`.
 
 ## Features
 
