@@ -1,0 +1,16 @@
+#container {
+  margin: 20px;
+}
+
+#youtubeLink {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#transcriptOutput {
+  white-space: pre-wrap; /* Preserves whitespace and line breaks */
+  margin-top: 20px;
+  background: #f0f0f0;
+  padding: 10px;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>YouTube Transcript Tool</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="container">
+    <input type="text" id="youtubeLink" placeholder="Enter YouTube link" />
+    <button id="getTranscriptBtn">Get Transcript</button>
+    <div id="outputContainer">
+        <div id="transcriptOutput"></div>
+        <div id="aiResponseOutput"></div>
+    </div>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
