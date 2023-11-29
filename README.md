@@ -32,7 +32,12 @@ To set up the project, follow these steps:
    npm install
    ```
 
-4. Open a web browser and navigate to `http://localhost:3000` to access the tool.
+4. Start the application:
+
+```
+npm start
+```
+
 
 ## Configuration
 
@@ -65,16 +70,6 @@ youtube_tool/
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss what you would like to change or add. You can always fork the repo and raise a PR.
-
-## Author
-
-lamaranelson
-
-## Acknowledgments
-
-- OpenAI for the LLM.
-- YouTube for the video content.
-- Langchain for the YouTube transcript wrapper.
 
 
 <img width="1232" alt="Screenshot 2023-11-28 at 2 58 56 PM" src="https://github.com/lamaranelson/youtube-tool/assets/65568691/a5a3a33d-8265-4aa8-9a7f-88c0ab25d8ca">
