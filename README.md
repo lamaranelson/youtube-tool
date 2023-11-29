@@ -34,9 +34,9 @@ To set up the project, follow these steps:
 
 4. Start the application:
 
-```
-npm start
-```
+   ```
+   npm start
+   ```
 
 
 ## Configuration
