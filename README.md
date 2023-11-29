@@ -54,7 +54,7 @@ youtube_tool/
 |   |   |-- index.html
 |   |   |-- script.js
 |   |   |-- styles.css
-|   |-- scripts/
+|   |-- extra_scripts/
 |       |-- youtube_test.js
 |-- package.json
 |-- .gitignore
