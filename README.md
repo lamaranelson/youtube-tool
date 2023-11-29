@@ -64,7 +64,7 @@ youtube_tool/
 
 ## Contributing
 
-Contributions are welcome. Please open an issue first to discuss what you would like to change or add. You can always fork the repo and raise a PR on a separate branch.
+Contributions are welcome. Please open an issue first to discuss what you would like to change or add. You can always fork the repo and raise a PR.
 
 ## Author
 
