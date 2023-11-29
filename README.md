@@ -66,10 +66,6 @@ youtube_tool/
 
 Contributions are welcome. Please open an issue first to discuss what you would like to change or add. You can always fork the repo and raise a PR on a separate branch.
 
-## License
-
-This project is licensed under the ISC License - see the `LICENSE` file for details.
-
 ## Author
 
 lamaranelson
